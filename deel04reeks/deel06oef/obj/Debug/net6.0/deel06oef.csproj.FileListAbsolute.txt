@@ -1,0 +1,14 @@
+C:\Users\32487\source\repos\deel04reeks\deel06oef\bin\Debug\net6.0\deel06oef.exe
+C:\Users\32487\source\repos\deel04reeks\deel06oef\bin\Debug\net6.0\deel06oef.deps.json
+C:\Users\32487\source\repos\deel04reeks\deel06oef\bin\Debug\net6.0\deel06oef.runtimeconfig.json
+C:\Users\32487\source\repos\deel04reeks\deel06oef\bin\Debug\net6.0\deel06oef.dll
+C:\Users\32487\source\repos\deel04reeks\deel06oef\bin\Debug\net6.0\deel06oef.pdb
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.AssemblyInfoInputs.cache
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.AssemblyInfo.cs
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.csproj.CoreCompileInputs.cache
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.dll
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\refint\deel06oef.dll
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.pdb
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\deel06oef.genruntimeconfig.cache
+C:\Users\32487\source\repos\deel04reeks\deel06oef\obj\Debug\net6.0\ref\deel06oef.dll

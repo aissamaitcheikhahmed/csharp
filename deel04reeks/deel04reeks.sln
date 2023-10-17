@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deel04reeks", "deel04reeks\deel04reeks.csproj", "{1CF0071D-8C61-4310-9B1B-C8AE416AE260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweeGetalenZonderMax", "TweeGetalenZonderMax\TweeGetalenZonderMax.csproj", "{C776EDC3-6428-4DFA-9077-330962012537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deel05somofverschil", "deel05somofverschil\deel05somofverschil.csproj", "{768F4F16-258E-4C2D-8FE0-34E7C8C95C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deel05oef6", "deel05oef6\deel05oef6.csproj", "{D18C6B7E-3851-45F9-959B-CB68EF27B2C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deel06oef", "deel06oef\deel06oef.csproj", "{3D3ED89B-EAB1-4F5E-9C0A-ACF801FC7CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deel06toonsomtussengrenzen", "deel06toonsomtussengrenzen\deel06toonsomtussengrenzen.csproj", "{B49E0528-9247-4991-960D-41AE653F5E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF0071D-8C61-4310-9B1B-C8AE416AE260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF0071D-8C61-4310-9B1B-C8AE416AE260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF0071D-8C61-4310-9B1B-C8AE416AE260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF0071D-8C61-4310-9B1B-C8AE416AE260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C776EDC3-6428-4DFA-9077-330962012537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C776EDC3-6428-4DFA-9077-330962012537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C776EDC3-6428-4DFA-9077-330962012537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C776EDC3-6428-4DFA-9077-330962012537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768F4F16-258E-4C2D-8FE0-34E7C8C95C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768F4F16-258E-4C2D-8FE0-34E7C8C95C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768F4F16-258E-4C2D-8FE0-34E7C8C95C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768F4F16-258E-4C2D-8FE0-34E7C8C95C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D18C6B7E-3851-45F9-959B-CB68EF27B2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18C6B7E-3851-45F9-959B-CB68EF27B2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18C6B7E-3851-45F9-959B-CB68EF27B2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18C6B7E-3851-45F9-959B-CB68EF27B2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3ED89B-EAB1-4F5E-9C0A-ACF801FC7CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3ED89B-EAB1-4F5E-9C0A-ACF801FC7CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3ED89B-EAB1-4F5E-9C0A-ACF801FC7CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3ED89B-EAB1-4F5E-9C0A-ACF801FC7CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49E0528-9247-4991-960D-41AE653F5E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49E0528-9247-4991-960D-41AE653F5E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49E0528-9247-4991-960D-41AE653F5E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49E0528-9247-4991-960D-41AE653F5E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C98C3F-B74B-4B2D-B5CA-ADD5DA54FDA8}
+	EndGlobalSection
+EndGlobal
